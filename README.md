@@ -1,2 +1,2 @@
 # rmproject1
-rm project code 
+R M project code 
